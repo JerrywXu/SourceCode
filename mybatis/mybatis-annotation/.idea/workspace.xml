@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="909c423e-9efa-4282-96ad-810eac0d0635" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mKevfkoihlyh6RK7lx9g6S04C2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560504514108" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="JUnit.MyBatisTestor.testSelectAll">
+    <configuration name="MyBatisTestor.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.mybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.mybatis" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.mybatis.MyBatisTestor" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisTestor.testSelectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.mybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.mybatis" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.mybatis.MyBatisTestor" />
+      <option name="METHOD_NAME" value="testSelectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisTestor.testSelectByPriceRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.mybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.mybatis" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.mybatis.MyBatisTestor" />
+      <option name="METHOD_NAME" value="testSelectByPriceRange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyBatisTestor.testSelectAll" />
+        <item itemvalue="JUnit.MyBatisTestor.testInsert" />
+        <item itemvalue="JUnit.MyBatisTestor.testSelectByPriceRange" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="909c423e-9efa-4282-96ad-810eac0d0635" name="Default Changelist" comment="" />
+      <created>1560500595875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560500595875</updated>
+      <workItem from="1560500598413" duration="3982000" />
+      <workItem from="1609246943667" duration="3339000" />
+      <workItem from="1609725991912" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyBatisTestor_testSelectByPriceRange - 2019.06.14 at 17h 08m 11s.xml">
+      <configuration name="MyBatisTestor.testSelectByPriceRange" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTestor_testSelectByPriceRange - 2019.06.14 at 17h 12m 14s.xml">
+      <configuration name="MyBatisTestor.testSelectByPriceRange" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTestor_testInsert - 2019.06.14 at 17h 17m 57s.xml">
+      <configuration name="MyBatisTestor.testInsert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTestor_testSelectAll - 2019.06.14 at 17h 25m 53s.xml">
+      <configuration name="MyBatisTestor.testSelectAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTestor_testInsert - 2019.06.14 at 17h 26m 21s.xml">
+      <configuration name="MyBatisTestor.testInsert" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="53" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609247161694">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="53" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1609247161694" />
+    <state width="212" height="539" key="HiddenNamespacesPopup" timestamp="1609247164588">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="212" height="539" key="HiddenNamespacesPopup/0.0.2048.1152@0.0.2048.1152" timestamp="1609247164588" />
+  </component>
+</project>
