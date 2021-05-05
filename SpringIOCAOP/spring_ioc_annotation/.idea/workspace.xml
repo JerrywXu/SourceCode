@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69f10870-91e9-4c23-8a76-f75152b5e2c9" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files (x86)/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\Program Files (x86)\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mpk2KzFxQqxwCjt9fqaIflHafF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaworkspace\spring_ioc_annotation\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SpringDemo3.demo1">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemo1.demo2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_annotation" />
+      <option name="PACKAGE_NAME" value="com.imooc.demo1" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.demo1.SpringDemo1" />
+      <option name="METHOD_NAME" value="demo2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemo1.demo3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_annotation" />
+      <option name="PACKAGE_NAME" value="com.imooc.demo1" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.demo1.SpringDemo1" />
+      <option name="METHOD_NAME" value="demo3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemo2.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_annotation" />
+      <option name="PACKAGE_NAME" value="com.imooc.demo2" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.demo2.SpringDemo2" />
+      <option name="METHOD_NAME" value="demo1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemo2.demo2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_annotation" />
+      <option name="PACKAGE_NAME" value="com.imooc.demo2" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.demo2.SpringDemo2" />
+      <option name="METHOD_NAME" value="demo2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemo3.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_annotation" />
+      <option name="PACKAGE_NAME" value="com.imooc.demo3" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.demo3.SpringDemo3" />
+      <option name="METHOD_NAME" value="demo1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SpringDemo1.demo2" />
+      <item itemvalue="JUnit.SpringDemo1.demo3" />
+      <item itemvalue="JUnit.SpringDemo2.demo1" />
+      <item itemvalue="JUnit.SpringDemo2.demo2" />
+      <item itemvalue="JUnit.SpringDemo3.demo1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringDemo3.demo1" />
+        <item itemvalue="JUnit.SpringDemo2.demo2" />
+        <item itemvalue="JUnit.SpringDemo2.demo1" />
+        <item itemvalue="JUnit.SpringDemo1.demo3" />
+        <item itemvalue="JUnit.SpringDemo1.demo2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69f10870-91e9-4c23-8a76-f75152b5e2c9" name="Default" comment="" />
+      <created>1510153180946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510153180946</updated>
+      <workItem from="1510153185325" duration="4745000" />
+      <workItem from="1512910323205" duration="222000" />
+      <workItem from="1610197714309" duration="1254000" />
+      <workItem from="1610277141252" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SpringDemo1_demo3 - 2017.11.08 at 23h 33m 04s.xml">
+      <configuration name="SpringDemo1.demo3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringDemo1_demo3 - 2017.11.08 at 23h 33m 17s.xml">
+      <configuration name="SpringDemo1.demo3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringDemo1_demo3 - 2017.11.08 at 23h 34m 49s.xml">
+      <configuration name="SpringDemo1.demo3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringDemo2_demo1 - 2017.11.08 at 23h 44m 54s.xml">
+      <configuration name="SpringDemo2.demo1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringDemo2_demo2 - 2017.11.08 at 23h 47m 30s.xml">
+      <configuration name="SpringDemo2.demo2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringDemo2_demo2 - 2017.11.08 at 23h 47m 37s.xml">
+      <configuration name="SpringDemo2.demo2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringDemo2_demo2 - 2017.11.08 at 23h 49m 27s.xml">
+      <configuration name="SpringDemo2.demo2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringDemo2_demo2 - 2017.11.08 at 23h 50m 28s.xml">
+      <configuration name="SpringDemo2.demo2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringDemo3_demo1 - 2017.11.09 at 00h 10m 45s.xml">
+      <configuration name="SpringDemo3.demo1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringDemo3_demo1 - 2017.11.09 at 00h 12m 59s.xml">
+      <configuration name="SpringDemo3.demo1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="345" y="487" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1610197732808">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="345" y="487" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1610197732808" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
