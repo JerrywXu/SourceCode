@@ -1,4 +1,4 @@
-package Example;
+package example;
 
 /**
  * @author jerry

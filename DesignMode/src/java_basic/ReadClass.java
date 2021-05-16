@@ -1,4 +1,4 @@
-package Java8;
+package java_basic;
 
 /**类的字节码分析
  * @author jerry

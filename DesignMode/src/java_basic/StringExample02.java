@@ -1,4 +1,4 @@
-package Java8;
+package java_basic;
 
 /** String 中 intern方法主要是解决堆内存的开销，如果常量池中有该字符串则直接返回该字符串的引用
  * 如果没有将该字符串加入到该常量池中，然后返回引用

@@ -1,4 +1,4 @@
-package Java8;
+package java_basic;
 
 /**实现线程的第二种方式
  * 编写一个类实现runnable接口，并实现run方法

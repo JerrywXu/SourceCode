@@ -1,4 +1,4 @@
-package Java8;
+package java_basic;
 
 /**实现线程的第一种方式
  * 直接编写一个类继承thread

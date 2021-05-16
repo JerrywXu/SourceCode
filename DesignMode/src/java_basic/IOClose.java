@@ -1,4 +1,4 @@
-package Java8;
+package java_basic;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

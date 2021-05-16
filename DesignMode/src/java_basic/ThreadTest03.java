@@ -1,4 +1,4 @@
-package Java8;
+package java_basic;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

@@ -1,4 +1,4 @@
-package Java8;
+package java_basic;
 
 import java.io.*;
 import java.lang.reflect.Constructor;
@@ -37,8 +37,8 @@ public class CreateObject {
                 (new FileOutputStream("studentfile"));
         Student s2 = new Student("wangwu");
         out.writeObject(s2);
-        out.flush();
-        out.close();
+        out.flush();//强制将缓冲区数据清空（都读到内存中）
+        out.close();//然后关闭
         //反序列化
         ObjectInputStream in = new ObjectInputStream
                 (new FileInputStream("studentfile"));
@@ -54,6 +54,12 @@ public class CreateObject {
         public  Student(String name){
             this.name=name;
         }
+
+        public Student(String name, int age) {
+            this.name = name;
+            this.age = age;
+        }
+
         @Override
         protected Object clone() throws CloneNotSupportedException {
             return super.clone();
