@@ -122,7 +122,7 @@ public class BinaryOperator {
         System.out.println(-5>>>2);
 
         long num =0b00111111111111111111111111111110;//在java中以0b开始的则被认定为二进制位
-        System.out.println(num);
+        System.out.println(num);//一致
 
     }
 }
