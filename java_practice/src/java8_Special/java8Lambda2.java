@@ -24,7 +24,7 @@ public class java8Lambda2 {
         System.out.println(mathUtil3.sum(100,200));
     }
 }
-
+//@FunctionalInterface  标注检查是否符合函数式接口，可以在编译时做检查 一个接口中只有一个方法（这时才可以使用Lambda表达式）
 interface MathUtil{
     int sum(int a,int b);
 }
