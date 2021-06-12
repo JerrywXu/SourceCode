@@ -10,7 +10,7 @@ import java.util.function.Consumer;
  * @Package java8_Special
  * @date 2021/6/11 23:00
  */
-public class java8Lanbda3 {
+public class java8Lambda3 {
     public static void main(String[] args) {
         //创建集合对象
         List<String> list = new ArrayList<>();

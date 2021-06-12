@@ -31,7 +31,7 @@ public class java8Lambda {
 
 interface SystemService{
     void logout();
-    //boolean login(String username,String password);
+    // boolean login(String username,String password);
 }
 class SystemServiceImpl implements SystemService{
 
