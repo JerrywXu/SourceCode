@@ -12,6 +12,6 @@ public class transient_keyWord {
 
     }
     public class Product implements Serializable{
-        private transient String name;//transient表示该字段不参与序列化操作
+        private transient String name;   //transient表示该字段不参与序列化操作
     }
 }
