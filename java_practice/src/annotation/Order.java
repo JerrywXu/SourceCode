@@ -9,7 +9,7 @@ import javax.xml.crypto.Data;
  */
 public class Order {
     //@ClassName(value = "java.util.Data")
-    @ClassName("java.util.Data")//只有value可以省略不写
+    @ClassName("java.util.Data")   //只有value可以省略不写
 
     Data time;
 }
